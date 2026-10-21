@@ -1,0 +1,329 @@
+{
+  "project": "MLM-сайт №1 «Лендинг через продукт»",
+  "total_planned": 40,
+  "ready": 40,
+  "pending": 0,
+  "notes": "40 отдельных PNG 1254×1254 с прозрачными краями. Используйте поле file для точного соответствия названия и изображения.",
+  "icons": [
+    {
+      "id": 1,
+      "name_ru": "Гибкая работа",
+      "file": "01-flexible-work.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 2,
+      "name_ru": "Дополнительный доход",
+      "file": "02-extra-income.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 3,
+      "name_ru": "Обучение",
+      "file": "03-training.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 4,
+      "name_ru": "Сообщество",
+      "file": "04-community.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 5,
+      "name_ru": "Новые возможности",
+      "file": "05-new-opportunities.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 6,
+      "name_ru": "Развитие",
+      "file": "06-development.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 7,
+      "name_ru": "Рост дохода",
+      "file": "07-income-growth.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 8,
+      "name_ru": "Цели",
+      "file": "08-goals.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 9,
+      "name_ru": "Здоровье",
+      "file": "09-health.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 10,
+      "name_ru": "Спорт",
+      "file": "10-sport.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 11,
+      "name_ru": "Внутренний баланс",
+      "file": "11-inner-balance.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 12,
+      "name_ru": "Энергия",
+      "file": "12-energy.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 13,
+      "name_ru": "Поддержка организма",
+      "file": "13-body-support.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 14,
+      "name_ru": "Внешняя привлекательность",
+      "file": "14-outer-attractiveness.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 15,
+      "name_ru": "Концентрация",
+      "file": "15-concentration.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 16,
+      "name_ru": "Иммунитет",
+      "file": "16-immunity.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 17,
+      "name_ru": "Работа и карьера",
+      "file": "17-work-career.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 18,
+      "name_ru": "Семья и быт",
+      "file": "18-family-everyday.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 19,
+      "name_ru": "Путешествия",
+      "file": "19-travel.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 20,
+      "name_ru": "Мобильность",
+      "file": "20-mobility.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 21,
+      "name_ru": "Повседневный ритм",
+      "file": "21-daily-rhythm.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 22,
+      "name_ru": "Свободное время",
+      "file": "22-free-time.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 23,
+      "name_ru": "Поддержка",
+      "file": "23-support.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 24,
+      "name_ru": "Уверенность",
+      "file": "24-confidence.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 25,
+      "name_ru": "Пошаговые инструкции",
+      "file": "25-step-by-step-instructions.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 26,
+      "name_ru": "Поддержка экспертов",
+      "file": "26-expert-support.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 27,
+      "name_ru": "Видео-уроки",
+      "file": "27-video-lessons.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 28,
+      "name_ru": "Готовые инструменты",
+      "file": "28-ready-tools.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 29,
+      "name_ru": "Общение",
+      "file": "29-communication.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 30,
+      "name_ru": "Результаты",
+      "file": "30-results.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 31,
+      "name_ru": "Бонусы",
+      "file": "31-bonuses.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 32,
+      "name_ru": "Акции",
+      "file": "32-promotions.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 33,
+      "name_ru": "Настройки",
+      "file": "33-settings.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 34,
+      "name_ru": "Доступ с телефона",
+      "file": "34-mobile-access.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 35,
+      "name_ru": "Доступ из любой точки",
+      "file": "35-access-anywhere.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 36,
+      "name_ru": "Безопасность",
+      "file": "36-security.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 37,
+      "name_ru": "Партнёрская программа",
+      "file": "37-partner-program.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 38,
+      "name_ru": "Приглашайте друзей",
+      "file": "38-invite-friends.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 39,
+      "name_ru": "Премиум",
+      "file": "39-premium.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 40,
+      "name_ru": "Эксклюзив",
+      "file": "40-exclusive.png",
+      "status": "ready",
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}
