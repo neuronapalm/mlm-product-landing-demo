@@ -1,5 +1,7 @@
 # PUREWELL DAILY BALANCE — демонстрационный лендинг
 
+Публичная версия: https://neuronapalm.github.io/mlm-product-landing-demo/
+
 Адаптивный статический сайт по предоставленным макетам `desktop.png`, `mobil.png` и HTML-прототипу. Для публикации на GitHub Pages достаточно файлов в корне проекта.
 
 ## Сборка и запуск
